@@ -1,0 +1,3 @@
+bot2:rock
+bot2:scisors
+bot2:paper
