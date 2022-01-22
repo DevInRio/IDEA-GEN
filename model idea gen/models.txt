@@ -1,3 +1,0 @@
-bot1:rock
-bot1:Paper
-bot1:scisors
